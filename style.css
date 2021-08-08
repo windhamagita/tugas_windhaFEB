@@ -1,0 +1,52 @@
+h1 {
+    margin-top: 35px;
+    font-size: 28px;
+    color: brown;
+
+}
+
+body{
+    background-color:moccasin;
+    font-size: 14x;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 1100px;
+    margin: auto;
+    text-align: center;
+    
+}
+section{
+    margin:auto;
+    display:flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.desc {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    text-align: center;
+}
+.desc .fullname {
+    font-size: 16px;
+    font-weight: bold;
+    color:darkred;
+}
+.desc .umur {
+    font-size: 14px;
+    color: darkred;
+}
+.desc p{
+    color:rgb(163, 39, 39);
+}
+img.rounded {
+    object-fit: cover;
+    border-radius: 100%;
+    height: 400px;
+    width: 400px;
+    margin-top: 35px;
+}
